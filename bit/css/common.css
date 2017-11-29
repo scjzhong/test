@@ -1,0 +1,37 @@
+/*--------头部----------*/
+header{border-bottom: 1px dotted #dbdcdd;}
+.head_top{width: 100%;background:#110a17;padding:20px 0;}
+.headT_left a{background: url(../images/flg.png) no-repeat left top;padding-left:20px;font-size: 16px;line-height: 20px;color: #007dff;}
+.headT_left a i{width: 20px;height: 20px;display:block;float:left;background:url(../images/ico.png) no-repeat left top;margin-right:10px;}
+.headT_left a:nth-child(1){margin-right: 50px;}
+.headT_left a:nth-child(2) i{background-position: left -30px;}
+.headT_rig a{width:30px;height:20px;display:block;float:left;background:url(../images/ico.png) no-repeat -30px top;margin-left:12px;}
+.headT_rig a:nth-child(2){background-position: -30px -30px;}
+.headT_cen a{font-size: 14px;line-height: 20px;color:#fff;padding:0 10px;border-right:1px solid #fff;}
+.headT_cen a:nth-child(2){border:none;}
+
+.headB_left{padding:22px 0 15px;font-size:16px;line-height:35px;color:#231815;}
+.headB_left img{width: 45px;height: 45px;float: left;}
+.headB_left h1{font-size: 27px;line-height: 45px;color:#231815;float: left;margin:0 15px 0 20px;}
+.headB_left p{margin-top: 10px;float:left;}
+.headB_nav{padding:22px 0;}
+.headB_nav li{float: left;margin-left: 65px;}
+.headB_nav li a{display:block;font-size:16px;line-height:40px;color:#231815;}
+.headB_nav li a.on,.headB_nav li a:hover{color:#007dff;}
+
+/*--------尾部----------*/
+footer{background:#373c41;}
+.foot_top{padding:34px 0 30px;border-bottom:1px solid #3e4348;font-size: 14px;line-height: 20px;color:#c6ced8;}
+.foot_top span{font-size: 12px;line-height: 18px;color:#707377;letter-spacing:-.5px;margin-top: 7px;}
+.footT_left{background: url(../images/foot_head.png) no-repeat;padding-left:60px;border-right:1px solid #53575c;padding-right: 35px;}
+.footT_rig{width: 760px;margin-left: 40px;}
+.foot_cen{padding:18px 0;border-bottom:1px solid #3e4348;font-size: 12px;line-height: 22px;color:#707377;}
+.foot_cen div{width: 103%;height: 22px;overflow:hidden;}
+.foot_cen span{margin-right: 12px;}
+.foot_cen a{color:#707377;width:84px;float: left;}
+.foot_nav{padding:10px;}
+.foot_nav li{float: left;margin-right:22px;}
+.foot_nav li a{font-size: 14px;line-height: 30px;color: #c6ced8;display: block;}
+.footB_rig{padding:0 0 20px 40px;margin-top: 16px;background:url(../images/flg.png) no-repeat left -30px;font-size: 12px;line-height: 18px;color: #707377;}
+
+content{}
