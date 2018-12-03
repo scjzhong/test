@@ -1,3 +1,3 @@
 <?php
 
-echo 'dev branch';
+echo 'commit 1';
